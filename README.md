@@ -14,3 +14,10 @@ This is a git repo, please do commit your code afterwards, and push it to the re
 
 3. Bonus: Expose the `Maths` class as an API using a web framework of your choice (e.g., Flask, FastAPI) and containerize the application using Docker.
 
+## Clarifying points:
+
+1. We aren't testing your maths knowledge. If you want to implement a prime number generator as a method that's great! You'll only score for code style and technique though.
+
+2. Use of type hints, custom error classes (if required), clean code and modern coding standards are all positively judged. We acknowledge there isn't much time, but coding to a high standard and showing you understand these things will win you points.
+
+3. You can't use chatgpt for this, or copilot or other AI tools.
